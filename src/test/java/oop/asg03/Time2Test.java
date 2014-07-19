@@ -2,6 +2,9 @@
 
 package asg03;
 
+import static org.junit.Assert.*;
+import org.junit.Test;
+
 public class Time2Test {
     public static void main( String args[] ) {
         Time2 t1 = new Time2();             // 00:00:00
