@@ -15,7 +15,7 @@ public class Time2Test {
         Time2 t6 = new Time2( t4 );         // 12:25:42
 
         System.out.println( "Constructed with:" );
-        System.out.println( "t1: all arguments def aulted" );
+        System.out.println( "t1: all arguments defaulted" );
         System.out.printf( "   %s\n", t1.toUniversalString() );
         System.out.printf( "   %s\n", t1.toString() );
 
